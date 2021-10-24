@@ -29,18 +29,15 @@ Donatly. is a non-profit movement empowering the awareness for blood and organ d
 5. Registration Form
     - Contains a form with details to fill for donating.
     - Has fields like Personal Details, Fitness details, Documents, etc.
-6. Test your Fitness  
-    - This page has features that used Tenserflow.
-    - You can do few fitness exercises to keep yourself fit.
-7. Banks
+6. Banks
     - Option to search banks and hospitals around your location.
-8. Events & News
+7. Events & News
     - Gives you options to find and register for donation drives and camps around.
     - This page can provide you with latest updates revolving around blood and organ donation(s).
-9. Read More/FAQs
+8. Read More/FAQs
     - This page gives you an overview of the processes that are involved in donation.
     - This is an awareness page for people to understand what could be the possible impacts of donations on people, be it, Receiver or the person Donating.
-10. Login/Signup Page
+9. Login/Signup Page
     - This is a common page for Signup/Login that is based from SAWO Labs API, that sends OTP to input email address.
 
 ### Additional Features
